@@ -5,3 +5,5 @@ git push
 git checkout -b name-of-branch (switching to a new branch)
 git checkout name-of-branch (switching to an existing branch)
 git status -s
+git pull
+git branch
